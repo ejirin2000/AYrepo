@@ -7,3 +7,6 @@ print("Hello,", name, "! Nice to meet you!")
 
 # Print the inputted name 
 print("You entered:", name)
+
+# changes from 1-add_constant branch
+print ("add constant")
